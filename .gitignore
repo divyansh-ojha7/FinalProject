@@ -72,3 +72,7 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+
+# Local files for UE
+FPSGameStarterKit/Saved/
+FPSGameStarterKit/Intermediate/
